@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FileExplorer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/FileExplorer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
